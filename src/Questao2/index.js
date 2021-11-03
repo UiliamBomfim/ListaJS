@@ -10,7 +10,7 @@ function Questao2() {
     
      let calculaConta = useCallback(()=>{
 
-        let conta = (gasto * perc)+gasto;
+        let conta = (parseFloat(gasto) * parseFloat(perc))+ parseFloat(gasto);
         let contapp = conta/pessoas;
         
             setResultado1(conta);
