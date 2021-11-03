@@ -9,6 +9,7 @@ function Home() {
             <p>Este site serve como resposta a lista de exercícios I que está no site de ADS em <a href="https://ads.ifba.edu.br/dl34">https://ads.ifba.edu.br</a></p>
             <ul>
                 <li><Link to="/questao1">Questão 1</Link></li>
+                <li><Link to="/questao2">Questão 2</Link></li>
             </ul>
         </div>
     );

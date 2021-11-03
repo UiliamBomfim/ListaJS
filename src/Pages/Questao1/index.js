@@ -1,5 +1,5 @@
 import { useCallback, useState } from 'react';
-
+import '../styles.css'
 
 function Questao1() {
     const [peso,setPeso]=useState(0);

@@ -8,9 +8,9 @@ import Rotas from './Rotas'
 
 
 ReactDOM.render(
-  <React.StrictMode>
+  <React.Fragment>
      <Rotas />
-  </React.StrictMode>,
+  </React.Fragment>,
   document.getElementById('root')
 );
 

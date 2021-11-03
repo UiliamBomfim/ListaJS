@@ -1,10 +1,10 @@
-import { Link } from "react-router-dom";
 
+import './styles.css'
 
 function Header(){
     return(
         <header>
-            <Link className="logo" to="/questao1">Questão 1</Link>
+            Teste
         </header>
     );
 }export default Header;
