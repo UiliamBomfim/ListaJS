@@ -10,6 +10,7 @@ function Home() {
             <ul>
                 <li><Link to="/questao1">Questão 1</Link></li>
                 <li><Link to="/questao2">Questão 2</Link></li>
+                <li><Link to="/questao3">Questão 3</Link></li>
             </ul>
         </div>
     );
